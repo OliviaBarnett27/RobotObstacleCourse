@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/oliviabarnett/Documents/301123/Content/Maps/FreshStartMap2_BuiltData.uasset",
+				"/Users/oliviabarnett/Documents/301123/Content/Maps/FreshStartMap2.umap",
+				"/Users/Shared/Epic Games/UE_5.2/Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset",
+				"/Users/Shared/Epic Games/UE_5.2/Engine/Content/EngineMaterials/NaniteHiddenSectionMaterial.uasset",
+				"/Users/oliviabarnett/Documents/301123/Content/Materials/Master/M_ShieldMaster.uasset",
+				"/Users/oliviabarnett/Documents/301123/Content/Materials/MI_ShieldMaster1.uasset",
+				"/Users/oliviabarnett/Documents/301123/Content/StudentWork/BP_Turret.uasset",
+				"/Users/oliviabarnett/Documents/301123/Content/StudentWork/BP_Projectile.uasset",
+				"/Users/oliviabarnett/Documents/301123/Content/StudentWork/BP_Door.uasset",
+				"/Users/oliviabarnett/Documents/301123/Content/StudentWork/BP_Ghost.uasset",
+				"/Users/oliviabarnett/Documents/301123/Content/StudentWork/BP_SlidingDoor.uasset",
+				"/Users/Shared/Epic Games/UE_5.2/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset",
+				"/Users/Shared/Epic Games/UE_5.2/Engine/Content/EditorMaterials/Utilities/LinearColorPicker_MATInst.uasset",
+				"/Users/Shared/Epic Games/UE_5.2/Engine/Content/EditorMaterials/Utilities/LinearColorPicker_MAT.uasset",
+				"/Users/oliviabarnett/Documents/301123/Content/StudentWork/BP_LockingProjectile.uasset"
+			]
+		}
+	]
+}
